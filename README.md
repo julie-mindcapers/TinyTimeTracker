@@ -1,10 +1,29 @@
-Welcome to the AWS CodeStar sample web application
+Welcome to TinyTimeTracker 
 ==================================================
 
-This sample code helps get you started with a simple Node.js web service deployed by AWS CloudFormation to AWS Lambda and Amazon API Gateway.
+This sample code helps get you started with a simple Node.js web service deployed by AWS CloudFormation to AWS Lambda and Amazon API Gateway. It was initially created as AWS CodeStar sample web application from the automated AWS CodeStar tool.
 
-What's Here
------------
+State of the App
+----------------
+This app has been created as a part of the realization of my long imagined business MindCapers. The long term purpose of this application is to implement an ownership model for startup businesses such as mine. The immediate purpose is to knock the rust off some desirable skills I don't get to use at my current job and demonstrate competency in some new skills I've learned on my own time.
+
+The state of this application is best described as barely started, non-functional. I plan to put a "free" license on it (I haven't decided which one yet), and request donations for those that actually use it. 
+
+App Intent and Design
+---------------------
+The intent of this app is to track time invested into creating MindCapers and its products, as the initial budget for this startup is $0. My hope is that as this becomes less a figment of my imagination and something that produces income, profits will be paid to direct contributors and to components used. Some proportion of proceeds will go toward costs (actual costs plus donations to free licensed components), some will go to direct contributors.
+
+"Free" licensed components actually used (i.e., the Godot engine for my planned game, the AdMob module) will be assigned dollar amounts that I feel I would need to pay for a commercial product that did the same thing. As revenue comes in on channels they are used in, monetary donations will be made incrementally until the product is "paid for". Components that require an upfront purchase will get no donations. 
+
+Direct contributors will have their work categorized into levels. Initially, I am planning Owner (100%), Expert (80%), Journeyman (65%), Newbie/Newbie Mentor (50%). Proceeds coming into a channel will be distributed on a weighted effort x amount of effort basis. Currently, this is a one woman show, but I anticipate at least one of my teenaged children contributing, possibly other people, and want to spell out how I will recognize their efforts up front.  
+
+TinyTimeTracker will be used to record time contributions and determine payouts when proceeds are realized.
+
+CodeStar Startup Stuff
+==================================================
+
+What This Started With
+----------------------
 
 This sample includes:
 
