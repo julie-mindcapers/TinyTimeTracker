@@ -19,6 +19,12 @@ Direct contributors will have their work categorized into levels. Initially, I a
 
 TinyTimeTracker will be used to record time contributions and determine payouts when proceeds are realized.
 
+Node.js setup
+=============
+$ npm install mysql
+$ npm install express --save
+$ npm install --save iam
+
 CodeStar Startup Stuff
 ==================================================
 
